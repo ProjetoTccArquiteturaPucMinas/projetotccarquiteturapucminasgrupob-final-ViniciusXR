@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: Vinicius Xavier Ramalho
 
 ## Visão Geral do Projeto
 
